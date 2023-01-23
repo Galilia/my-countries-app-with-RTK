@@ -13,3 +13,9 @@ DONE:
 4) Countries filter by region
 5) Get information about one country from API
 6) Get list of neighbors
+-------------
+Upgrade to Redux-Toolkit:
+1) dark/light theme via RTK
+2) filtering control via RTK
+3) created Countries async feature
+4) created Details async feature
