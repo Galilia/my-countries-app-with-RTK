@@ -1,4 +1,4 @@
-# REST Countries API with color theme switcher solution
+# REST Countries API with color theme switcher solution and Redux-Toolkit
 
 Production deployment Demo on Vercel: https://my-countries-app-with-rtk.vercel.app/
 
